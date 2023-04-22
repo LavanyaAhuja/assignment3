@@ -1,0 +1,20 @@
+:root{
+    --font-family: 'POPPINS' , sans-serif ;
+}
+input{
+    border-radius:12px;
+    background-color:aqua;
+
+}
+.FORM-GROUP{
+    BORDER-WIDTH:7PX;
+    BORDER-STYLE: SOLID;
+    BORDER-COLOR:BLACK;
+    WIDTH:300PX;
+     MARGIN-BOTTOM:20PX;
+     padding: 10PX;
+}
+.BUTTON{
+   height: 50PX;
+   width: 80PX;
+}
